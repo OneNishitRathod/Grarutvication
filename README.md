@@ -1,11 +1,5 @@
 # 🎓 Congratulations, Rutvi
 
-A one-page website that plays the graduation film from YouTube, in up to 4K, on iPhone, Android, iPad and laptops.
-
-**What's in this folder:** `index.html` (the whole website), `assets/` (font and the link-preview image), and this README.
-
----
-
 ## 1 · Upload the film to YouTube (Unlisted)
 
 1. On YouTube → **Create → Upload video** and choose your final 4K file.
@@ -35,7 +29,7 @@ Any YouTube link format works. The film card on the page automatically uses the 
 2. Click **uploading an existing file**, drag in `index.html`, `README.md` and the `assets` folder → **Commit changes**.
 3. **Settings → Pages** → Source: **Deploy from a branch** · Branch: **main** · Folder: **/ (root)** → **Save**.
 4. After 1–2 minutes your link appears at the top of that page:
-   **`https://YOUR-GITHUB-USERNAME.github.io/rutvi-graduation/`**
+   **`https://YOUR-GITHUB-USERNAME.github.io/Grarutvication/`**
 
 **Optional, for a nice Instagram link preview:** in `index.html`, replace `YOUR-GITHUB-USERNAME` in the `og:image` line
 with your GitHub username and commit.
@@ -43,14 +37,4 @@ with your GitHub username and commit.
 ## 4 · Test, then send
 
 Open the link on your phone in a **private/incognito** window so you see it the way she will. Tap **Watch the film**, and check the sound and full screen.
-Then paste the link into her Instagram DM. 💌
-
 ---
-
-### Good to know
-
-- **Laptops and Android:** one tap on *Watch the film* starts the film with sound and goes full screen.
-- **iPhone:** Apple requires one tap on YouTube's own ▶. The page shows a small "Tap ▶ to start" hint, then the film plays in the iPhone's full-screen player.
-- **When the film ends,** a "Congratulations, Rutvi." screen appears with *Watch again*.
-- **Changing the film later:** upload the new version and paste the new link.
-- The page tells search engines not to list it. Anyone with the link can open it.
